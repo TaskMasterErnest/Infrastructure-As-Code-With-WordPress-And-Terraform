@@ -1,4 +1,4 @@
-# Infrastructure Deployment with Ansible and Terraform
+# Infrastructure Deployment with Terraform
 
 ## Software Architecture of the Project
 The high-level view of the software architecture of the project consists of the following:
